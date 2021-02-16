@@ -1,0 +1,9 @@
+<project outputDir="sp2ath" baseDir="sp2ath" debug="true" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="minimum" inherit="false" />
+  <packer id="compressor" />
+  <module path="Filename.exe">
+    <rule pattern="true" inherit="false" />
+    <rule pattern="true" inherit="false" />
+    <rule pattern="true" inherit="false" />
+  </module>
+</project>

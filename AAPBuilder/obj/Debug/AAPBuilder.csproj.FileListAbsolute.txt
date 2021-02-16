@@ -1,0 +1,71 @@
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Properties.Resources.resources
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.exe
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.pdb
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe.config
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.pdb
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CopyComplete
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.xml
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.MainForm.resources
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ChangeLog.resources
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Help.resources
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ReceiverManager.resources
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csprojResolveAssemblyReference.cache
+C:\Users\alper\source\repos\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Disclaimer.resources
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csprojAssemblyReference.cache
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.MainForm.resources
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ChangeLog.resources
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Help.resources
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Disclaimer.resources
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Properties.Resources.resources
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ReceiverManager.resources
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.GenerateResource.cache
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.exe
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.pdb
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe.config
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.pdb
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.xml
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CopyComplete
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe.config
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.pdb
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.xml
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.MainForm.resources
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ChangeLog.resources
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Help.resources
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Disclaimer.resources
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Properties.Resources.resources
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ReceiverManager.resources
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CopyComplete
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.exe
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.pdb
+C:\Users\alper\Desktop\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.HexEditor.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe.config
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.exe
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\bin\Debug\AAPBuilder.pdb
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\bin\Debug\Vestris.ResourceLib.xml
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.MainForm.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ChangeLog.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Help.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Disclaimer.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.HexEditor.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.Properties.Resources.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.ReceiverManager.resources
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.csproj.CopyComplete
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.exe
+C:\Users\alper\Desktop\Files\AAPBuilder\AAPBuilder\obj\Debug\AAPBuilder.pdb

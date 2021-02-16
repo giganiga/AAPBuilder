@@ -1,0 +1,7 @@
+C:\Users\alper\Desktop\AAPBuilder\RegFixer\bin\Debug\RegFixer.exe.config
+C:\Users\alper\Desktop\AAPBuilder\RegFixer\bin\Debug\RegFixer.exe
+C:\Users\alper\Desktop\AAPBuilder\RegFixer\bin\Debug\RegFixer.pdb
+C:\Users\alper\Desktop\AAPBuilder\RegFixer\obj\Debug\RegFixer.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\AAPBuilder\RegFixer\obj\Debug\RegFixer.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\AAPBuilder\RegFixer\obj\Debug\RegFixer.exe
+C:\Users\alper\Desktop\AAPBuilder\RegFixer\obj\Debug\RegFixer.pdb
